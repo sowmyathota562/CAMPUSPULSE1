@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 650">
+  <defs>
+    <linearGradient id="g" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#bfe4ff"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 535h860" opacity=".75"/>
+    <path d="M190 535V295h720v240" opacity=".9"/>
+    <path d="M155 295h790L550 115 155 295Z" fill="url(#g)" opacity=".13"/>
+    <path d="M235 295v240M315 295v240M395 295v240M475 295v240M555 295v240M635 295v240M715 295v240M795 295v240M875 295v240" opacity=".62"/>
+    <path d="M500 535V390h100v145" fill="#ffffff" opacity=".10"/>
+    <path d="M535 390v145M565 390v145" opacity=".55"/>
+    <path d="M505 345h90" opacity=".6"/>
+    <circle cx="165" cy="425" r="34" opacity=".55"/><path d="M165 389v146M131 425h68M141 401l48 48M189 401l-48 48" opacity=".42"/>
+    <circle cx="935" cy="425" r="34" opacity=".55"/><path d="M935 389v146M901 425h68M911 401l48 48M959 401l-48 48" opacity=".42"/>
+    <path d="M550 115v-45M535 82h30" opacity=".7"/>
+  </g>
+  <g fill="#ffffff" opacity=".55">
+    <circle cx="105" cy="155" r="5"/><circle cx="1000" cy="170" r="5"/><circle cx="260" cy="105" r="4"/><circle cx="835" cy="100" r="4"/>
+  </g>
+</svg>
